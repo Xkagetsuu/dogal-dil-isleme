@@ -1,7 +1,7 @@
 # Proje Adı: Doğal Dil İşleme Projesi
 
 ## 1. Modelin oluşturulması yükledigim dogal_dil_isleme klasörüne girin içerisinde yer alan proje(2).ipynb adlı Jupyter Notebook dosyasını açın dosyadaki hücreler yukarıdan aşağıya doğru sıralı olarak çalıştırıldığında herhangi bir hata alınmadan model eğitimi ve değerlendirme işlemleri tamamlanacaktır.
-## modelin son aşamasında da bir farklılık yoktur gerekli kütüphaneler en üstte oldugundan kodları sıralı şekilde çalıştırdgınızda hiç bi sorun olmadan çalışmaktadır. 
+## modelin son aşamasında da bir farklılık yoktur gerekli kütüphaneler en üstte oldugundan kodları sıralı şekilde çalıştırdıgınızda hiç bi sorun olmadan çalışmaktadır. 
 
 ## 2. Veri setinin kullanım amaçı bu veri seti 
 ### Dava Sonuçlarını Tahmin Etme
